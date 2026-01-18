@@ -73,7 +73,7 @@ Employee-Management-System/
 - Integrate with Spring Boot for scalability
 
   
-## 👩‍💻 Developed by
+## 👩‍💻 Developed By
 
 **Prakruthi G H**  
 📍 Bangalore, India  
