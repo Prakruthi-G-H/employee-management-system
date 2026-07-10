@@ -62,7 +62,7 @@ Employee-Management-System/
    - Right-click project → Run on Server
    - Choose Apache Tomcat v9 or v10
 
-6.Open the browser and go to: http://localhost:8080/Employee-Management-System/
+6. Open the browser and go to: http://localhost:8080/Employee-Management-System/
 
 
 ## 🔮 Future Enhancements
