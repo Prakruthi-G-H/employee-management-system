@@ -4,7 +4,7 @@ A web-based Employee Management System using Java, JSP, Servlets, JDBC, and MySQ
 
 ## 🧰 Tech Stack Used
 
-- **Frontend**: HTML, CSS, JSP
+- **Frontend Technologies**: HTML, CSS, JSP
 - **Backend**: Java, Servlets, JDBC
 - **Database**: MySQL
 - **Build Tool**: Maven
