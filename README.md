@@ -2,6 +2,8 @@
 
 A web-based Employee Management System built using Java, JSP, Servlets, JDBC, and MySQL. This project allows users to manage employee records through basic CRUD (Create, Read, Update, Delete) operations.
 
+## 📌 Project Overview
+
 ## 🧰 Tech Stack Used
 
 - **Frontend**: HTML, CSS, JSP
