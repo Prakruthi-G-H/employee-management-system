@@ -18,7 +18,7 @@ The Employee Management System simplifies employee record management by providin
 ## 📌 Features
 
 - Add new employee records  
-- View all employee records  
+- View employee details  
 - Update employee details  
 - Delete employee records  
 
