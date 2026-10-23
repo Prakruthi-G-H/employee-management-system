@@ -4,6 +4,8 @@ A web-based Employee Management System built using Java, JSP, Servlets, JDBC, an
 
 ## 📌 Project Overview
 
+The Employee Management System simplifies employee record management by providing functionality to add, view, update, and delete employee details. It follows a layered structure with separate components for controllers, data access, models, and business logic.
+
 ## 🧰 Tech Stack Used
 
 - **Frontend**: HTML, CSS, JSP
