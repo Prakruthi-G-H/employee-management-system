@@ -32,13 +32,13 @@ employee-management-system/
 │   └── main/
 │       ├── java/
 │       │   └── com/example/ems/
-│       │       ├── controller/       # Servlets (AddEmployee, DeleteEmployee, etc.)
-│       │       ├── dao/              # DAO layer (DBConnection, EmpDao)
-│       │       ├── model/            # Employee model
-│       │       └── service/          # Business logic (Addingservice, SearchandUpdate)
+│       │       ├── controller/       
+│       │       ├── dao/              
+│       │       ├── model/            
+│       │       └── service/         
 │       └── webapp/
 │           ├── WEB-INF/
-│           │   └── web.xml           # Deployment descriptor
+│           │   └── web.xml           
 │           ├── addemployee.html
 │           ├── delete.html
 │           ├── employee.html
@@ -46,7 +46,7 @@ employee-management-system/
 │           ├── success.jsp
 │           ├── update.html
 │           ├── updateemployee.jsp
-│           └── viewemployee.jsp     # JSP & HTML pages
+│           └── viewemployee.jsp    
 ├── pom.xml
 └── README.md
 ```
