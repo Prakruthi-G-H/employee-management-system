@@ -27,7 +27,7 @@ The Employee Management System simplifies employee record management by providin
 ## 🗂️ Project Structure
 
 ```bash
-Employee-Management-System/
+employee-management-system/
 ├── src/
 │   └── main/
 │       ├── java/
