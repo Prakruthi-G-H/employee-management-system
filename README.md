@@ -51,6 +51,8 @@ employee-management-system/
 └── README.md
 ```
 
+## ⚙️ Prerequisites
+
 ## 🚀 How to Run
 
 1. Clone the repository  
