@@ -55,6 +55,7 @@ employee-management-system/
 
 Make sure you have the following installed:
 - JDK compatible with your project
+- Eclipse IDE
 
 ## 🚀 How to Run
 
