@@ -22,6 +22,7 @@ The Employee Management System simplifies employee record management by providin
 - Update existing employee information 
 - Delete employee records
 - Store and retrieve employee data using MySQL
+- Organize application code into separate layers
 
 ## 🗂️ Project Structure
 
