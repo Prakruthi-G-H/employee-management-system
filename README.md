@@ -58,6 +58,7 @@ Make sure you have the following installed:
 - Eclipse IDE
 - MySQL Workbench
 - Apache Tomcat compatible with your project
+- Maven
 
 ## 🚀 How to Run
 
