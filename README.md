@@ -53,6 +53,8 @@ employee-management-system/
 
 ## ⚙️ Prerequisites
 
+Make sure you have the following installed:
+
 ## 🚀 How to Run
 
 1. Clone the repository  
