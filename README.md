@@ -54,6 +54,7 @@ employee-management-system/
 ## ⚙️ Prerequisites
 
 Make sure you have the following installed:
+- JDK compatible with your project
 
 ## 🚀 How to Run
 
