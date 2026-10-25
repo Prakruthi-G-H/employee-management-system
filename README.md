@@ -65,6 +65,7 @@ Make sure you have the following installed:
 1. Clone the repository  
    ```bash
    git clone https://github.com/Prakruthi-G-H/Employee-Management-System.git
+   ```
 2. Open the project in Eclipse IDE
 
 3. Set up the MySQL database
