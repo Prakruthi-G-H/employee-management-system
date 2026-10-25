@@ -67,8 +67,9 @@ Make sure you have the following installed:
    git clone https://github.com/Prakruthi-G-H/Employee-Management-System.git
    ```
 2. Import into Eclipse
-    - Open Eclipse IDE.
-    - Import the project as an existing Maven project.
+    - Open Eclipse IDE
+    - Import the project as an existing Maven project
+    - Wait for Maven dependencies to download
 3. Set up the MySQL database
    - Create a database: ems_db
    - Create employee table manually 
