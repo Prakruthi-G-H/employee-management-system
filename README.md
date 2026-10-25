@@ -64,7 +64,7 @@ Make sure you have the following installed:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Prakruthi-G-H/Employee-Management-System.git
+   git clone https://github.com/Prakruthi-G-H/employee-management-system.git
    ```
 2. Import into Eclipse
     - Open Eclipse IDE
