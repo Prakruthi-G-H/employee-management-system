@@ -60,7 +60,7 @@ Make sure you have the following installed:
 - Apache Tomcat compatible with your project
 - Maven
 
-## 🚀 How to Run
+## 🚀 How to Run the Project
 
 1. Clone the repository  
    ```bash
