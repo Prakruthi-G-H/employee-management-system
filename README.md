@@ -76,7 +76,7 @@ Make sure you have the following installed:
    - Create the required employee table using the schema expected by the application
    - Update the database connection details in the relevant Java file
 
-4. Configure DB connection in your Java code 
+4. Configure Apache Tomcat 
 
 5. Add and configure Apache Tomcat Server
    - Right-click project → Run on Server
