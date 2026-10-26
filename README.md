@@ -77,7 +77,7 @@ Make sure you have the following installed:
    - Update the database connection details in the relevant Java file
 
 4. Configure Apache Tomcat 
-
+   - Add a compatible Tomcat server in Eclipse
 5. Add and configure Apache Tomcat Server
    - Right-click project → Run on Server
    - Choose Apache Tomcat v9 or v10
