@@ -73,6 +73,7 @@ Make sure you have the following installed:
 3. Set up the MySQL database
    - Start MySQL
    - Create a database named ems_db
+   - Create the required employee table using the schema expected by the application
    - Create employee table manually 
 
 4. Configure DB connection in your Java code 
