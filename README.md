@@ -71,6 +71,7 @@ Make sure you have the following installed:
     - Import the project as an existing Maven project
     - Wait for Maven dependencies to download
 3. Set up the MySQL database
+   - Start MySQL
    - Create a database: ems_db
    - Create employee table manually 
 
