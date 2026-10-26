@@ -72,7 +72,7 @@ Make sure you have the following installed:
     - Wait for Maven dependencies to download
 3. Set up the MySQL database
    - Start MySQL
-   - Create a database: ems_db
+   - Create a database named ems_db
    - Create employee table manually 
 
 4. Configure DB connection in your Java code 
