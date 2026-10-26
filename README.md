@@ -78,6 +78,7 @@ Make sure you have the following installed:
 
 4. Configure Apache Tomcat 
    - Add a compatible Tomcat server in Eclipse
+   - Configure the project to run on the server
 5. Add and configure Apache Tomcat Server
    - Right-click project → Run on Server
    - Choose Apache Tomcat v9 or v10
