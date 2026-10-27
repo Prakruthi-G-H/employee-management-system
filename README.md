@@ -81,7 +81,6 @@ Make sure you have the following installed:
    - Configure the project to run on the server
 
 5. Run the Application
-   - Right-click project → Run on Server
    - Select Run As → Run on Server
    - Choose Apache Tomcat v9 or v10
 
