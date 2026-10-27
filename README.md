@@ -88,8 +88,7 @@ Make sure you have the following installed:
       ```bash
       http://localhost:8080/employee-management-system/
       ```
-6. Open the browser and go to: http://localhost:8080/Employee-Management-System/
-
+The exact URL depends on your configured application context path
 
 ## 🔮 Future Enhancements
 
