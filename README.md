@@ -85,7 +85,9 @@ Make sure you have the following installed:
    - Select Run As → Run on Server
    - Choose your configured Tomcat server
    - Open the application URL displayed by your server. It may be:
-
+      ```bash
+      http://localhost:8080/employee-management-system/
+      ```
 6. Open the browser and go to: http://localhost:8080/Employee-Management-System/
 
 
