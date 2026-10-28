@@ -91,6 +91,7 @@ Make sure you have the following installed:
 The exact URL depends on your configured application context path
 
 ## 🧠 Concepts Practiced
+- Java object-oriented programming
 
 ## 🔮 Future Enhancements
 
