@@ -92,6 +92,7 @@ The exact URL depends on your configured application context path
 
 ## 🧠 Concepts Practiced
 - Java object-oriented programming
+- Java Servlets and JSP
 
 ## 🔮 Future Enhancements
 
