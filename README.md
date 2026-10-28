@@ -90,6 +90,8 @@ Make sure you have the following installed:
       ```
 The exact URL depends on your configured application context path
 
+## 🧠 Concepts Practiced
+
 ## 🔮 Future Enhancements
 
 - Implement login and authentication (Admin/User roles)
