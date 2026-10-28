@@ -94,6 +94,7 @@ The exact URL depends on your configured application context path
 - Java object-oriented programming
 - Java Servlets and JSP
 - JDBC database connectivity
+- MySQL CRUD operations
 
 ## 🔮 Future Enhancements
 
