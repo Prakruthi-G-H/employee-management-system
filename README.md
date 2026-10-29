@@ -102,6 +102,7 @@ The exact URL depends on your configured application context path
 ## 🔮 Future Enhancements
 
 - Add user authentication and authorization
+- Improve form validation and error handling
 - Implement login and authentication (Admin/User roles)
 - Integrate with Spring Boot for scalability
 
