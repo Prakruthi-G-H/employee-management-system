@@ -96,6 +96,7 @@ The exact URL depends on your configured application context path
 - JDBC database connectivity
 - MySQL CRUD operations
 - DAO and service-layer organization
+- Maven project management
 
 ## 🔮 Future Enhancements
 
