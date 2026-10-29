@@ -97,6 +97,7 @@ The exact URL depends on your configured application context path
 - MySQL CRUD operations
 - DAO and service-layer organization
 - Maven project management
+- Deploying a Java web application on Apache Tomcat
 
 ## 🔮 Future Enhancements
 
