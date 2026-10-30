@@ -105,6 +105,7 @@ The exact URL depends on your configured application context path
 - Improve form validation and error handling
 - Enhance the user interface and responsive design
 - Add search and pagination for employee records
+- Migrate the backend to Spring Boot and Spring Data JPA
 - Implement login and authentication (Admin/User roles)
 - Integrate with Spring Boot for scalability
 
