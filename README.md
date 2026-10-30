@@ -106,7 +106,6 @@ The exact URL depends on your configured application context path
 - Enhance the user interface and responsive design
 - Add search and pagination for employee records
 - Migrate the backend to Spring Boot and Spring Data JPA
-- Integrate with Spring Boot for scalability
 
   
 ## 👩‍💻 Developed By
